@@ -1,0 +1,17 @@
+D:\vs_studio_projeler\Saglik-Yardimcisi\bin\Debug\net6.0-windows\Saglik-Yardimcisi.exe
+D:\vs_studio_projeler\Saglik-Yardimcisi\bin\Debug\net6.0-windows\Saglik-Yardimcisi.deps.json
+D:\vs_studio_projeler\Saglik-Yardimcisi\bin\Debug\net6.0-windows\Saglik-Yardimcisi.runtimeconfig.json
+D:\vs_studio_projeler\Saglik-Yardimcisi\bin\Debug\net6.0-windows\Saglik-Yardimcisi.dll
+D:\vs_studio_projeler\Saglik-Yardimcisi\bin\Debug\net6.0-windows\Saglik-Yardimcisi.pdb
+D:\vs_studio_projeler\Saglik-Yardimcisi\obj\Debug\net6.0-windows\Saglik-Yardimcisi.csproj.AssemblyReference.cache
+D:\vs_studio_projeler\Saglik-Yardimcisi\obj\Debug\net6.0-windows\Saglik_Yardimcisi.Form1.resources
+D:\vs_studio_projeler\Saglik-Yardimcisi\obj\Debug\net6.0-windows\Saglik-Yardimcisi.csproj.GenerateResource.cache
+D:\vs_studio_projeler\Saglik-Yardimcisi\obj\Debug\net6.0-windows\Saglik-Yardimcisi.GeneratedMSBuildEditorConfig.editorconfig
+D:\vs_studio_projeler\Saglik-Yardimcisi\obj\Debug\net6.0-windows\Saglik-Yardimcisi.AssemblyInfoInputs.cache
+D:\vs_studio_projeler\Saglik-Yardimcisi\obj\Debug\net6.0-windows\Saglik-Yardimcisi.AssemblyInfo.cs
+D:\vs_studio_projeler\Saglik-Yardimcisi\obj\Debug\net6.0-windows\Saglik-Yardimcisi.csproj.CoreCompileInputs.cache
+D:\vs_studio_projeler\Saglik-Yardimcisi\obj\Debug\net6.0-windows\Saglik-Yardimcisi.dll
+D:\vs_studio_projeler\Saglik-Yardimcisi\obj\Debug\net6.0-windows\refint\Saglik-Yardimcisi.dll
+D:\vs_studio_projeler\Saglik-Yardimcisi\obj\Debug\net6.0-windows\Saglik-Yardimcisi.pdb
+D:\vs_studio_projeler\Saglik-Yardimcisi\obj\Debug\net6.0-windows\Saglik-Yardimcisi.genruntimeconfig.cache
+D:\vs_studio_projeler\Saglik-Yardimcisi\obj\Debug\net6.0-windows\ref\Saglik-Yardimcisi.dll
