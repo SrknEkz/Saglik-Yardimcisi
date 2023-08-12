@@ -23,7 +23,7 @@ namespace Saglik_Yardimcisi
         }
 
         bool butonKontrol = false;
-        private void button1_Click(object sender, EventArgs e)
+        private void Btn_Alarm_Ayarla_Click(object sender, EventArgs e)
         {
             butonKontrol = true;
             timer1.Start();
